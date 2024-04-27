@@ -9,7 +9,7 @@ Vagrant에서 사용되는 컨셉들을 살펴보자. 박스(box)는 운영 체�
 $ vagrant box add USER/BOX
 ```
 
-예를 들어 다음 명령어를 실행하면 centos7 운영체제를 다운로드 받는다.
+예를 들어 다음 명령어를 실행하면 ubuntu 운영체제를 다운로드 받는다.
 
 ```
 $ vagrant box add ubuntu/trusty64
